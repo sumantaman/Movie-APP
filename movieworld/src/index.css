@@ -3,11 +3,11 @@
     src: url('./assets/fonts/Montserrat.woff');
 }
 
-:root{
+/* :root{
     --font-family: "Montserrat";
     --body_color: #fff;
     --heading_color: #ffe400;
-}
+} */
 
 [data-theme='light']{
     --body_background :#fff;
